@@ -1,0 +1,97 @@
+@charset "utf-8";
+
+#wrapper{
+    width: 300px;
+    margin-left: 10px;
+}
+#uploaddrop{
+
+    height:300px;
+    width: 300px;
+    overflow-y: hidden;
+    border: 1px solid #ccc;
+    margin-top: -46px;
+    padding: 0px;
+    text-align: center;
+    line-height: 300px;
+    font-weight: bold;
+}
+.uploaddrop{
+
+    height:300px;
+    width: 300px;
+    overflow-y: hidden;
+    border: 1px solid #ccc;
+    margin-top: -46px;
+    padding: 0px;
+    text-align: center;
+    line-height: 300px;
+    font-weight: bold;
+}
+#uploadmessage{
+    height: 50px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    padding: 0px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.down-img-size{
+	width:300px;
+	height:300px;
+}
+
+/*---------------------------  styles for color picker -------------------------------*/    
+
+.dropdown dd, .dropdown dt, .dropdown ul { margin:0px; padding:0px; }
+.dropdown dd { position:relative; }               
+
+
+.dropdown dt a {background:#ffffff url(images/arrow1.png) no-repeat scroll 97.5% center ; display:block; padding-right:20px; border: 1px solid #d3d3d3;}       
+/*.dropdown dt a span {cursor:pointer; display:block; padding:0px 5px 0px 5px;line-height: 18px; vertical-align: middle; }*/
+ .dropdown dt a:hover { color:#212121; border: 1px solid #999999;}
+ 
+  /* Text for both (box and options) */
+ .dropdown a, .dropdown a:visited { color:#555555; text-decoration:none; outline:none;}
+.dropdown a:hover { color:#212121;}        
+ 
+  /* The container for the dropdown options */         
+  .dropdown dd ul { background:#ffffff none repeat scroll 0 0; border:1px solid #d3d3d3; color:#555555; display:none; left:0px; padding:5px 0px; position:absolute; top:0px; width: 297px;z-index: 999; list-style:none;}  
+ 
+ /* The dropdown options */                 
+.dropdown dd ul li a { padding:5px; display:block;}                         
+.dropdown span.value { display:none;}  
+	
+ /* If using images */       
+.dropdown img.flag { border:none; vertical-align:middle; margin-left:10px; }
+/* If using colors */     
+.dropdown .color { border: 1px solid silver; vertical-align:middle; margin-right:5px; min-width: 10px;}
+
+#contactus-modal{
+	height: auto;
+	left: 10px;
+	opacity: 1;
+	position: absolute;
+	top: 736px;
+	width: 260px;
+	z-index: 8030;
+	margin: 0;
+	outline: medium none;
+	padding: 0px;
+}
+
+#contactus-inner{
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 2px solid #CCCCCC;
+	border-radius: 4px 4px 4px 4px;
+	color: #444444;
+	margin: 0;
+	min-height: 110px;
+	padding: 15px 10px;
+	position: relative;
+	text-shadow: none;
+	width: 277px;
+	z-index: 8030;
+}

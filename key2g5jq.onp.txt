@@ -1,0 +1,107 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   files/config/config.php
+#	new file:   files/images/51ebade0a482e9.85368611.jpg
+#	new file:   files/images/51ebeb9254c6c8.29503172.jpg
+#	new file:   files/libphp/display_functions.php
+#	new file:   html/basic-plus.html
+#	new file:   html/css/jquery.fileupload-ui.css
+#	new file:   html/functions.php
+#	new file:   html/index.html
+#	new file:   html/index.php
+#	new file:   html/js/app.js
+#	new file:   html/js/bootstrap.min.js
+#	new file:   html/js/canvas-to-blob.min.js
+#	new file:   html/js/cors/jquery.postmessage-transport.js
+#	new file:   html/js/cors/jquery.xdr-transport.js
+#	new file:   html/js/jquery.blueimp-gallery.min.js
+#	new file:   html/js/jquery.fileupload-angular.js
+#	new file:   html/js/jquery.fileupload-audio.js
+#	new file:   html/js/jquery.fileupload-image.js
+#	new file:   html/js/jquery.fileupload-process.js
+#	new file:   html/js/jquery.fileupload-ui.js
+#	new file:   html/js/jquery.fileupload-validate.js
+#	new file:   html/js/jquery.fileupload-video.js
+#	new file:   html/js/jquery.fileupload.js
+#	new file:   html/js/jquery.iframe-transport.js
+#	new file:   html/js/load-image.min.js
+#	new file:   html/js/main.js
+#	new file:   html/js/tmpl.min.js
+#	new file:   html/js/vendor/jquery.ui.widget.js
+#	new file:   html/libcss/display_upload.css
+#	new file:   html/libjs/functions.js
+#	new file:   html/libjs/jQuery_Mobile_1.3.1.js
+#	new file:   html/libjs/jQuery_v1.10.1.js
+#	new file:   html/php/UploadHandler.php
+#	new file:   html/php/files/Desert (1).jpg
+#	new file:   html/php/files/Desert (2).jpg
+#	new file:   html/php/files/Desert.jpg
+#	new file:   html/php/files/Hydrangeas (1).jpg
+#	new file:   html/php/files/Hydrangeas (2).jpg
+#	new file:   html/php/files/Hydrangeas.jpg
+#	new file:   html/php/files/Jellyfish (1).jpg
+#	new file:   html/php/files/Jellyfish (2).jpg
+#	new file:   html/php/files/Jellyfish.jpg
+#	new file:   html/php/files/Koala.jpg
+#	new file:   html/php/files/Lighthouse.jpg
+#	new file:   html/php/files/Tulips.jpg
+#	new file:   html/php/files/thumbnail/Desert (1).jpg
+#	new file:   html/php/files/thumbnail/Desert (2).jpg
+#	new file:   html/php/files/thumbnail/Desert.jpg
+#	new file:   html/php/files/thumbnail/Hydrangeas (1).jpg
+#	new file:   html/php/files/thumbnail/Hydrangeas (2).jpg
+#	new file:   html/php/files/thumbnail/Hydrangeas.jpg
+#	new file:   html/php/files/thumbnail/Jellyfish (1).jpg
+#	new file:   html/php/files/thumbnail/Jellyfish (2).jpg
+#	new file:   html/php/files/thumbnail/Jellyfish.jpg
+#	new file:   html/php/files/thumbnail/Koala.jpg
+#	new file:   html/php/files/thumbnail/Lighthouse.jpg
+#	new file:   html/php/files/thumbnail/Tulips.jpg
+#	new file:   html/php/index.php
+#	new file:   html/test/paypal/paypal.php
+#	new file:   html/test/paypal/php_nvp_samples/APIError.php
+#	new file:   html/test/paypal/php_nvp_samples/CallerService.php
+#	new file:   html/test/paypal/php_nvp_samples/DoCapture.php
+#	new file:   html/test/paypal/php_nvp_samples/DoCaptureReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/DoDirectPayment.php
+#	new file:   html/test/paypal/php_nvp_samples/DoDirectPaymentReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/DoExpressCheckoutPayment.php
+#	new file:   html/test/paypal/php_nvp_samples/DoReauthorization.html
+#	new file:   html/test/paypal/php_nvp_samples/DoReauthorizationReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/DoVoid.php
+#	new file:   html/test/paypal/php_nvp_samples/DoVoidReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/GetBalance.php
+#	new file:   html/test/paypal/php_nvp_samples/GetBalanceReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/GetExpressCheckoutDetails.php
+#	new file:   html/test/paypal/php_nvp_samples/GetTransactionDetails.html
+#	new file:   html/test/paypal/php_nvp_samples/MassPay.html
+#	new file:   html/test/paypal/php_nvp_samples/MassPayReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/README.html
+#	new file:   html/test/paypal/php_nvp_samples/RefundReceipt.php
+#	new file:   html/test/paypal/php_nvp_samples/RefundTransaction.php
+#	new file:   html/test/paypal/php_nvp_samples/ReviewOrder.php
+#	new file:   html/test/paypal/php_nvp_samples/SetExpressCheckout.php
+#	new file:   html/test/paypal/php_nvp_samples/TransactionDetails.php
+#	new file:   html/test/paypal/php_nvp_samples/TransactionSearch.php
+#	new file:   html/test/paypal/php_nvp_samples/TransactionSearchResults.php
+#	new file:   html/test/paypal/php_nvp_samples/constants.php
+#	new file:   html/test/paypal/php_nvp_samples/index.html
+#	new file:   html/test/paypal/php_nvp_samples/sdk.css
+#	new file:   html/uploadFinalStorage.php
+#	new file:   html/uploadPicture.php
+#	new file:   html/uploadPortal.php
+#	new file:   mysql/database.sql
+#	new file:   nbproject/project.properties
+#	new file:   nbproject/project.xml
+#
+
